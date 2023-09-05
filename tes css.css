@@ -5,9 +5,7 @@ h1{
     color: whitesmoke;
     text-align: center;
 }
-pre{
-    text-align: center;
-}
+
 p{
     text-align: justify;
 }
@@ -17,4 +15,7 @@ h2{
 table, th, td{
     text-align: center;
     border: 2px white;
+}
+a{
+    text-align: end;
 }
